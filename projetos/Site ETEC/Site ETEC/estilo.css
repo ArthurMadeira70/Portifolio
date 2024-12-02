@@ -1,0 +1,119 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.partedecima {
+    height: 80px;
+    border-bottom: 1px solid #dadada;
+}
+
+#umapartedecima {
+    background-color: black;
+    width: 305px;
+    height: 80px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+#logogoverno {
+    padding-left: 60px;
+    padding-top: 22px;
+}
+
+.logocpsitanhaem {
+    width: 20%;
+    height: 20%;
+}
+
+#header1 {
+    padding-left: 127px;
+    padding-top: 17px;
+    padding-bottom: 21px;
+    display: flex;
+}
+
+#header1 .divpesquisa {
+    margin-left: 596px;
+    margin-top: 17px;
+    height: 50px;
+    width: 384px;
+    border: 1px solid #dadada;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+#menu {
+    background-color: #b20000;
+    width: 100%;
+    height: 58px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.botoescursos {
+    width: 55px;
+    height: 30px;
+}
+
+#home {
+    background-color: #666;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    align-items: center;
+}
+
+#home .botaohome {
+    padding-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.mad{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #b20000;
+    color:#dadada;
+    width: 100%;
+    height: 58px;
+}
+
+.mam{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #b20000;
+    color:#dadada;
+    width: 100%;
+    height: 58px;
+}
+
+.min{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #b20000;
+    color:#dadada;
+    width: 100%;
+    height: 58px;
+}
+
+.homecursos{
+    background-color:#666;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    padding-left: 127px;
+    color: white;
+}
+.etctexto{
+    background-color: burlywood;
+    width: 100%;
+    height: 200px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-items: center;
+}
+.botoesmenu{
+  color:white;
+  text-decoration: none;
+
+}
